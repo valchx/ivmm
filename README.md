@@ -57,3 +57,12 @@ SVM does the rest.
 - I like it.
 ### Cons
 - IDK
+
+## Golang
+### Pros
+- I just learned it.
+- Seems cool
+- Modern ?
+
+### Cons
+- A bit less strict. But that's okay.
